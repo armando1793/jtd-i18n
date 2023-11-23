@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Content
-lang: en
+lang: es
 page_id: content
 nav_order: 1
 permalink: /content

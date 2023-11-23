@@ -1,0 +1,21 @@
+
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc4
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-polyglot
+
+title: "I am just playing around"
+description: "This is a test site for me to play around with Jekyll and GitHub Pages."
+
+favicon_ico: "favicon.ico"
+
+color_scheme: dark
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+languages: ['en', 'ja']
+default_lang: "ja"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true

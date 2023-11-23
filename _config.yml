@@ -15,7 +15,7 @@ color_scheme: dark
 back_to_top: true
 back_to_top_text: "Back to top"
 
-languages: ['en', 'ja']
-default_lang: "ja"
+languages: ['en', 'fr']
+default_lang: "fr"
 exclude_from_localization: ["javascript", "images", "css", "public"]
 parallel_localization: true

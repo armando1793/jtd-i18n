@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 家
-lang: ja
+lang: fr
 page_id: content
 nav_order: 1
 permalink: /家
